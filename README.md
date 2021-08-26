@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @josue270193
-- 👀 I’m interested in 🐍 Python and AI
-- 🌱 I’m currently learning 🐍Python and AI
-- 📫 How to reach me, Well email me josue270193@gmail.com
+## 👋 Hola, Hi, Hallo
 
-<!---
-josue270193/josue270193 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Josue. I'm a programming lover who work using Java (backend).
+
+I'm interested in 🐍 Python and AI so I'm currently learning them.
+
+
+📫 Some useful link about me:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/josue270193) 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/josue-david)
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
